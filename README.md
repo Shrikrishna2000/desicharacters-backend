@@ -125,7 +125,7 @@ _(Example: conversation between a Bollywood-style character and the user.)_
 - 📱 Improved mobile responsiveness  
 
 ### 🧠 AI Layer
-- ⚙️ Optionally switch to **LangChain** for modular LLM pipelines  
+- ⚙️ Optionally utilize to **LangGraph** for objective oriented workflows.
 
 ### 🎭 Customization
 - 🧑‍🎨 In-app UI for creating and editing characters  
@@ -164,3 +164,4 @@ Special thanks to these amazing tools & frameworks:
 - 🎨 **TailwindCSS** — clean, responsive styling  
 
 ---
+
